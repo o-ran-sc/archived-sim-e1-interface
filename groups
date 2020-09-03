@@ -1,3 +1,4 @@
-add1d629e64dce7097223c93ca6e710c1460b5ba	GitHub Replication
-global:Registered-Users	Registered Users
+# UUID                                                                           	Group Name
+#
+cf175b2f7cf4b6812d61b5a4ac98d9495b0c0e75                                         	saml/oran-gerrit-sim-e1-interface-committers
 ldap:cn=oran-gerrit-sim-e1-interface-committers,ou=Groups,dc=freestandards,dc=org	ldap/oran-gerrit-sim-e1-interface-committers
